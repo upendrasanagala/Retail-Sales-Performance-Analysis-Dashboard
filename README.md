@@ -13,3 +13,7 @@
 - Python (EDA & Visualization)
 - Power BI (Interactive Dashboard)
 
+## Images
+![Full Dashboard View](full%20view.png)
+![Power BI Analysis](power%20bi.png)
+![SQL Queries](sql.png)
